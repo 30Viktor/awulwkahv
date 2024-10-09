@@ -1,0 +1,20 @@
+#left {
+    background-color: #180969;
+    width: 300px;
+    height: 300px;
+    color: aliceblue;
+    font-size: 36px;
+}
+#right {
+    background-color: #180969;
+    width: 300px;
+    height: 300px;
+    color: aliceblue;
+    margin-left: 50px;
+    font-size: 36px;
+    
+}
+#all{
+    display: flex;
+}
+
