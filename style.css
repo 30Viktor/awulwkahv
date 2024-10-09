@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(179, 179, 179);
+    background-color: rgb(238, 212, 155);
 }
 
 #header{
@@ -42,7 +42,7 @@ table{
     border-color:rgb(29, 67, 100);
     width: 400px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 10px;
     
 }
 #img{
@@ -57,7 +57,7 @@ h1{
         flex: 1;
         height: 100%;}
     li{display: inline;
-    margin: 100px;
+    margin: 45px;
     font-size: 30px;
     }
     ul{
@@ -76,5 +76,12 @@ margin-right: 100px;
 margin-bottom: 20px;
     }
     a{
-     style-decoration: 0;
+        text-decoration: none;
+        color: rgb(29, 67, 100);
+        font-size: 40px;
     }
+    h3{
+       text-align: center;
+    }
+    
+    
