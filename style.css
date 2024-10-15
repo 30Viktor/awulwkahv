@@ -98,7 +98,7 @@ body{
       }
       #footer{
         background-color:  rgba(18, 95, 50, 0.685);
-        height: 100px;
+        height: 115px;
         margin-left: 100px;
           margin-right: 100px;
           margin-bottom: 20px;
@@ -112,11 +112,25 @@ body{
             display: inline-block;
         }
         #img2{
-width: 70px;
-height: 70px;
-display: inline;
-margin-left: 500px;
-padding-top: 15px;
+        width: 70px;
+        height: 70px;
+        display: inline;
+        margin-left: 350px;
+        margin-bottom: 25px;    
         }
-    
+        #img3{
+            width: 118px;
+            height: 118px;
+            display: inline;
+            margin-left: 16px;
+            }
+        #img4{
+            width: 119px;
+            height: 119px;
+
+    }
+    #logos{
+margin-left: 68px; 
+
+    }    
     
