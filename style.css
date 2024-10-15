@@ -1,98 +1,122 @@
 body{
     
-  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/033/645/252/small_2x/drizzle-rainy-day-in-autumn-background-and-wallpaper-generative-ai-photo.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/033/645/252/small_2x/drizzle-rainy-day-in-autumn-background-and-wallpaper-generative-ai-photo.jpg");
+    
+    
+    height: 100%;
   
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+      
+  }
   
-  height: 100%;
-
-  
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-    
-}
-
-#header{
-background-color: rgba(18, 95, 50, 0.685);
-height: 100px;
-margin-left: 100px;
-margin-right: 100px;
-margin-bottom: 30px;
-color: rgb(192, 176, 176);
-
-}
-html,body{ height: 100%;}
-
-#left {
-    background-color:rgba(18, 95, 50, 0.685);
-    width: 300px;
-    height: 300px;
-    color:rgb(192, 176, 176);
-    font-size: 36px;
-    text-align: center;
-    margin-left: 100px;
-    
-    
-}
-#right {
-    background-color:rgba(18, 95, 50, 0.685);
-    width: 450px;
-    height: 300px;
-    color: rgb(192, 176, 176);
-    margin-left: 30px;
-    font-size: 36px;
-    margin-right: 100px;
-    
-}
-#all{
+  #header{
     display: flex;
-    height: 100vh;
-}
-table{
-    border-color:rgb(192, 176, 176);
-    width: 400px;
-    margin: auto;
-    margin-top: 10px;
-    
-}
-#img{
-    margin-top: 80px;
-    width: 400px;
-}
-h1{
-    text-align: center;
-    font-size: 60px;
-    padding-top: autos;}
-    #left,#right{
-        flex: 1;
-        height: 100%;}
-    li{display: inline;
-    margin: 45px;
-    font-size: 30px;
-    }
-    ul{
-        margin: auto;
-        width: max-content;
-        margin-bottom: 25px;
-       
-    }
-    #hider{
-        background-color: rgba(18, 95, 50, 0.685);
-        color: rgb(192, 176, 176);
-        height: 50px;
-        width: auto;
+  background-color: rgba(18, 95, 50, 0.685);
+  height: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  color: rgb(192, 176, 176);
+  justify-content: center;
+    align-items: center;
+  }
+  
+  
+  #left {
+      background-color:rgba(18, 95, 50, 0.685);
+      width: 300px;
+      height: 300px;
+      color:rgb(192, 176, 176);
+      font-size: 36px;
+      text-align: center;
+      margin-left: 100px;
+      
+      
+  }
+  #right {
+      background-color:rgba(18, 95, 50, 0.685);
+      width: 450px;
+      height: 300px;
+      color: rgb(192, 176, 176);
+      margin-left: 30px;
+      font-size: 36px;
+      margin-right: 100px;
+      
+  }
+  #all{
+      display: flex;
+      height: 100vh;
+  }
+  table{
+      border-color:rgb(192, 176, 176);
+      width: 400px;
+      margin: auto;
+      margin-top: 10px;
+      
+  }
+  #img{
+      margin-top: 80px;
+      width: 400px;
+  }
+  h1{
+      text-align: center;
+      font-size: 60px;
+      padding-top: auto;}
+      #left,#right{
+          flex: 1;
+          height: 100%;}
+      li{display: inline;
+      margin: 45px;
+      font-size: 30px;
+      }
+      ul{
+          margin: auto;
+          width: max-content;
+          margin-bottom: 25px;
+         
+      }
+      #hider{
+          background-color: rgba(18, 95, 50, 0.685);
+          color: rgb(192, 176, 176);
+          height: 50px;
+          width: auto;
+          margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+      }
+      a{
+          text-decoration: none;
+          color: rgb(192, 176, 176);
+          font-size: 40px;
+      }
+      #h3abd{
+         text-align: center;
+      }
+      #footer{
+        background-color:  rgba(18, 95, 50, 0.685);
+        height: 100px;
         margin-left: 100px;
-margin-right: 100px;
-margin-bottom: 20px;
-    }
-    a{
-        text-decoration: none;
-        color: rgb(192, 176, 176);
-        font-size: 40px;
-    }
-    h3{
-       text-align: center;
-    }
+          margin-right: 100px;
+          margin-bottom: 20px;
+          color: rgb(192, 176, 176);
+          margin-top: 20px;
+        }
+        #h3abc{
+            margin-left: 350px;
+           font-size: 20PX;
+           padding-bottom: 30px;
+            display: inline-block;
+        }
+        #img2{
+width: 70px;
+height: 70px;
+display: inline;
+margin-left: 500px;
+padding-top: 15px;
+        }
     
     
